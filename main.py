@@ -1,5 +1,5 @@
 import turtle
-'''
+
 drawing_board = turtle.Screen()
 drawing_board.bgcolor("green2")
 drawing_board.title("Square")
@@ -18,7 +18,7 @@ turtle.done()
 for i in range(4):
     t1.forward(100)
     t1.left(90)
-'''
+
 board = turtle.Screen()
 board.bgcolor("green2")
 board.title("Star")
